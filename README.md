@@ -1,2 +1,2 @@
 # odin-recipes
- Recipes Page for Odin Project
+ Recipes Page for Odin Project HTML Foundations
